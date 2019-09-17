@@ -1,3 +1,6 @@
+command to create data science project template:
+cookiecutter https://github.com/drivendata/cookiecutter-data-science
+
 titanic
 ==============================
 
